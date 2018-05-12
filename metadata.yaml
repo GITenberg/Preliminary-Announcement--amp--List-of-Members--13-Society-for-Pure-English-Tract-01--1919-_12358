@@ -1,6 +1,9 @@
 _repo: Preliminary-Announcement--amp--List-of-Members--13-Society-for-Pure-English-Tract-01--1919-_12358
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Preliminary Announcement and List of Members
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Society for Pure English
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4335'
     url: http://www.gutenberg.org/2009/agents/4335
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12358#Preliminary-Announcement--amp--List-of-Members--13-Society-for-Pure-English-Tract-01--1919-
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
